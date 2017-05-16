@@ -1,0 +1,11 @@
+c:\users\mr.misfit\documents\visual studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\CPVB 004.exe.config
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\CPVB 004.exe
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\CPVB 004.pdb
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\CPVB 004.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.vbprojResolveAssemblyReference.cache
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB_004.Form1.resources
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB_004.Resources.resources
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.vbproj.GenerateResource.Cache
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.exe
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.pdb
