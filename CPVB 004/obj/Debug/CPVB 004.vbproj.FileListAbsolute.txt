@@ -9,3 +9,26 @@ C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\D
 C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.exe
 C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.xml
 C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\obj\Debug\CPVB 004.pdb
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\EntityFramework.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\Microsoft.Web.Helpers.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.Razor.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\WebMatrix.Data.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\EntityFramework.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.Razor.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mr.Misfit\Documents\Visual Studio 2015\Projects\CPVB 004\CPVB 004\bin\Debug\WebMatrix.WebData.xml
