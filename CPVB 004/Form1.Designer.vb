@@ -51,9 +51,8 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(12, 203)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 13)
+        Me.Label1.Size = New System.Drawing.Size(0, 13)
         Me.Label1.TabIndex = 2
-        Me.Label1.Text = "Label1"
         '
         'Eingabe
         '
@@ -84,7 +83,8 @@ Partial Class Form1
         Me.Controls.Add(Me.ListView1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "CPVB"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
