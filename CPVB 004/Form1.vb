@@ -3,7 +3,7 @@ Imports System.Net
 Imports System.Web.Helpers
 Imports System.Data.SQLite
 Public Class Form1
-
+    Property Form1 = FormStartPosition.CenterScreen
     ' Ziel ist die phonetische Dupletten-Suche in SQL
     ' Start mit vorgefertigtem Suchen nach klarem Ergebnis
     ' Vorgesetzt für Anfang
@@ -63,7 +63,8 @@ Public Class Form1
         Dim SQLcommand As SQLiteCommand
         SQLconnect.ConnectionString = "Data Source=ergebnis.s3db;"
         If args Is String.Empty Then
-            ListView1.Items.Add("Leider keine Ergebnisse :( " & vbNewLine)
+            'ListView1.Items.Add("Leider keine Ergebnisse :( " & vbNewLine)
+            Label1.Text = "Leider keine Ergebnisse =("
             'Wenn keine Ergebnisse, kein Datenbank-Eintrag!
         Else
             ListView1.Items.Add(vbNewLine & "Ergebnis: " & args & "." & vbNewLine)
@@ -190,6 +191,7 @@ Public Class Form1
     End Function
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         ListView1.Items.Clear()
+        Label1.Text = ""
         Main()
     End Sub
 End Class
