@@ -22,5 +22,27 @@ CPVB 004
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="F:CPVB_004.Form1.line">
+ <summary>
+ Ziel ist die phonetische Dupletten-Suche in SQL
+ Start mit vorgefertigtem Suchen nach klarem Ergebnis
+ Vorgesetzt für Anfang
+ </summary>
+ <Inhalte>
+ 
+ Die Methode Main() enthält die Hauptfunktion, gestartet durch den Such-Knopf
+ Alle anderen Methoden und Funktionen welche kein Click_Action Event sind, werden hier gestartet
+ Ausnahme sind SoundEx() Funktion und Datenbank-Erstellung und Modifizierung durch SQLite
+ </Inhalte>
+ <Effekt>
+ 
+ Ablauf: Es wird ein Suchwort eingegeben. In aktueller Form wird ein Array durchsucht.
+ Alternativ ist durch Kommentierung in Main() Sub ein Durchsuchen einer ZielURI bzw. das Abfragen
+ für einen JSON-String derselben möglich
+ Dieser wird de-serialized, und entsprechend abgearbeitet nach Umwandlung in Soundex-Code
+ Nachfolgend abgeglichen mit dem Codefragment der Suche, und jedes Ergebnis der Listbox hinzugefügt
+ Alternativ gibt das dazugehörige Label die Information "Keine Ergebnisse" aus.
+ </Effekt>  
+</member>
 </members>
 </doc>
